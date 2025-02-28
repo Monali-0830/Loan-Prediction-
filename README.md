@@ -14,8 +14,7 @@ The project offers the following features:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/jayash1973/Advanced-Loan-Predictor`
-2. Install the required packages: `pip install -r requirements.txt`
+1. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
 
